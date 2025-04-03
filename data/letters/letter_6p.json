@@ -1,0 +1,768 @@
+{
+  "各": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "각각",
+        "eum": "각"
+      }
+    ],
+    "words": []
+  },
+  "角": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "뿔",
+        "eum": "각"
+      }
+    ],
+    "words": []
+  },
+  "界": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "지경",
+        "eum": "계:"
+      }
+    ],
+    "words": []
+  },
+  "計": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "셀",
+        "eum": "계:"
+      }
+    ],
+    "words": []
+  },
+  "高": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "높을",
+        "eum": "고"
+      }
+    ],
+    "words": []
+  },
+  "公": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "공평할",
+        "eum": "공"
+      }
+    ],
+    "words": []
+  },
+  "共": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "함께",
+        "eum": "공:"
+      }
+    ],
+    "words": []
+  },
+  "功": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "공",
+        "eum": "공"
+      }
+    ],
+    "words": []
+  },
+  "果": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "열매",
+        "eum": "과:"
+      }
+    ],
+    "words": []
+  },
+  "科": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "과목",
+        "eum": "과"
+      }
+    ],
+    "words": []
+  },
+  "光": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "빛",
+        "eum": "광"
+      }
+    ],
+    "words": []
+  },
+  "球": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "공",
+        "eum": "구"
+      }
+    ],
+    "words": []
+  },
+  "今": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "이제",
+        "eum": "금"
+      }
+    ],
+    "words": []
+  },
+  "急": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "급할",
+        "eum": "급"
+      }
+    ],
+    "words": []
+  },
+  "短": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "짧을",
+        "eum": "단(:)"
+      }
+    ],
+    "words": []
+  },
+  "堂": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "집",
+        "eum": "당"
+      }
+    ],
+    "words": []
+  },
+  "代": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "대신할",
+        "eum": "대:"
+      }
+    ],
+    "words": []
+  },
+  "對": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "대할",
+        "eum": "대:"
+      }
+    ],
+    "words": []
+  },
+  "圖": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "그림",
+        "eum": "도"
+      }
+    ],
+    "words": []
+  },
+  "讀": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "읽을",
+        "eum": "독"
+      },
+      {
+        "hun": "구절",
+        "eum": "두"
+      }
+    ],
+    "words": []
+  },
+  "童": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "아이",
+        "eum": "동(:)"
+      }
+    ],
+    "words": []
+  },
+  "等": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "무리",
+        "eum": "등:"
+      }
+    ],
+    "words": []
+  },
+  "樂": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "즐길",
+        "eum": "락"
+      },
+      {
+        "hun": "노래",
+        "eum": "악"
+      },
+      {
+        "hun": "좋아할",
+        "eum": "요"
+      }
+    ],
+    "words": []
+  },
+  "利": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "이할",
+        "eum": "리:"
+      }
+    ],
+    "words": []
+  },
+  "理": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "다스릴",
+        "eum": "리:"
+      }
+    ],
+    "words": []
+  },
+  "明": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "밝을",
+        "eum": "명"
+      }
+    ],
+    "words": []
+  },
+  "聞": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "들을",
+        "eum": "문(:)"
+      }
+    ],
+    "words": []
+  },
+  "半": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "반",
+        "eum": "반:"
+      }
+    ],
+    "words": []
+  },
+  "反": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "돌이킬/돌아올",
+        "eum": "반:"
+      }
+    ],
+    "words": []
+  },
+  "班": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "나눌",
+        "eum": "반"
+      }
+    ],
+    "words": []
+  },
+  "發": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "필",
+        "eum": "발"
+      }
+    ],
+    "words": []
+  },
+  "放": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "놓을",
+        "eum": "방(:)"
+      }
+    ],
+    "words": []
+  },
+  "部": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "떼",
+        "eum": "부"
+      }
+    ],
+    "words": []
+  },
+  "分": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "나눌",
+        "eum": "분(:)"
+      }
+    ],
+    "words": []
+  },
+  "社": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "모일",
+        "eum": "사"
+      }
+    ],
+    "words": []
+  },
+  "書": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "글",
+        "eum": "서"
+      }
+    ],
+    "words": []
+  },
+  "線": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "줄",
+        "eum": "선"
+      }
+    ],
+    "words": []
+  },
+  "雪": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "눈",
+        "eum": "설"
+      }
+    ],
+    "words": []
+  },
+  "成": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "이룰",
+        "eum": "성"
+      }
+    ],
+    "words": []
+  },
+  "省": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "살필",
+        "eum": "성"
+      },
+      {
+        "hun": "덜",
+        "eum": "생"
+      }
+    ],
+    "words": []
+  },
+  "消": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "사라질",
+        "eum": "소"
+      }
+    ],
+    "words": []
+  },
+  "術": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "재주",
+        "eum": "술"
+      }
+    ],
+    "words": []
+  },
+  "始": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "비로소",
+        "eum": "시"
+      }
+    ],
+    "words": []
+  },
+  "身": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "몸",
+        "eum": "신"
+      }
+    ],
+    "words": []
+  },
+  "神": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "귀신",
+        "eum": "신"
+      }
+    ],
+    "words": []
+  },
+  "信": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "믿을",
+        "eum": "신:"
+      }
+    ],
+    "words": []
+  },
+  "新": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "새",
+        "eum": "신"
+      }
+    ],
+    "words": []
+  },
+  "弱": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "약할",
+        "eum": "약"
+      }
+    ],
+    "words": []
+  },
+  "藥": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "약",
+        "eum": "약"
+      }
+    ],
+    "words": []
+  },
+  "業": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "업",
+        "eum": "업"
+      }
+    ],
+    "words": []
+  },
+  "勇": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "날랠",
+        "eum": "용:"
+      }
+    ],
+    "words": []
+  },
+  "用": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "쓸",
+        "eum": "용:"
+      }
+    ],
+    "words": []
+  },
+  "運": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "옮길",
+        "eum": "운:"
+      }
+    ],
+    "words": []
+  },
+  "音": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "소리",
+        "eum": "음"
+      }
+    ],
+    "words": []
+  },
+  "飮": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "마실",
+        "eum": "음(:)"
+      }
+    ],
+    "words": []
+  },
+  "意": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "뜻",
+        "eum": "의:"
+      }
+    ],
+    "words": []
+  },
+  "作": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "지을",
+        "eum": "작"
+      }
+    ],
+    "words": []
+  },
+  "昨": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "어제",
+        "eum": "작"
+      }
+    ],
+    "words": []
+  },
+  "才": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "재주",
+        "eum": "재"
+      }
+    ],
+    "words": []
+  },
+  "戰": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "싸움",
+        "eum": "전:"
+      }
+    ],
+    "words": []
+  },
+  "庭": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "뜰",
+        "eum": "정"
+      }
+    ],
+    "words": []
+  },
+  "第": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "차례",
+        "eum": "제:"
+      }
+    ],
+    "words": []
+  },
+  "題": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "제목",
+        "eum": "제"
+      }
+    ],
+    "words": []
+  },
+  "注": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "부을",
+        "eum": "주:"
+      }
+    ],
+    "words": []
+  },
+  "集": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "모을",
+        "eum": "집"
+      }
+    ],
+    "words": []
+  },
+  "窓": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "창",
+        "eum": "창"
+      }
+    ],
+    "words": []
+  },
+  "淸": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "맑을",
+        "eum": "청"
+      }
+    ],
+    "words": []
+  },
+  "體": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "몸",
+        "eum": "체"
+      }
+    ],
+    "words": []
+  },
+  "表": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "겉",
+        "eum": "표"
+      }
+    ],
+    "words": []
+  },
+  "風": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "바람",
+        "eum": "풍"
+      }
+    ],
+    "words": []
+  },
+  "幸": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "다행",
+        "eum": "행:"
+      }
+    ],
+    "words": []
+  },
+  "現": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "나타날",
+        "eum": "현:"
+      }
+    ],
+    "words": []
+  },
+  "形": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "모양",
+        "eum": "형"
+      }
+    ],
+    "words": []
+  },
+  "和": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "화할",
+        "eum": "화"
+      }
+    ],
+    "words": []
+  },
+  "會": {
+    "level": "6p",
+    "huneum": [
+      {
+        "hun": "모일",
+        "eum": "회:"
+      }
+    ],
+    "words": []
+  }
+}

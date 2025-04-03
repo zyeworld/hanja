@@ -1,6 +1,6 @@
 {
   "佳": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "아름다울",
@@ -10,7 +10,7 @@
     "words": []
   },
   "架": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "시렁",
@@ -20,7 +20,7 @@
     "words": []
   },
   "脚": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "다리",
@@ -30,7 +30,7 @@
     "words": []
   },
   "閣": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "집",
@@ -40,7 +40,7 @@
     "words": []
   },
   "刊": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "새길",
@@ -50,7 +50,7 @@
     "words": []
   },
   "幹": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "줄기",
@@ -60,7 +60,7 @@
     "words": []
   },
   "懇": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "간절할",
@@ -70,17 +70,19 @@
     "words": []
   },
   "肝": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "간",
         "eum": "간(:)"
       }
     ],
-    "words": []
+    "words": [
+      "肝(간기), 肝油(간유), 肝腸(간장)만 단음이고 나머지는 다 장음이다.\n"
+    ]
   },
   "鑑": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "거울",
@@ -90,7 +92,7 @@
     "words": []
   },
   "剛": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "굳셀",
@@ -100,7 +102,7 @@
     "words": []
   },
   "綱": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "벼리",
@@ -110,7 +112,7 @@
     "words": []
   },
   "鋼": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "강철",
@@ -120,7 +122,7 @@
     "words": []
   },
   "槪": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "대개",
@@ -130,7 +132,7 @@
     "words": []
   },
   "介": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "낄",
@@ -140,17 +142,19 @@
     "words": []
   },
   "蓋": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "덮을",
         "eum": "개(:)"
       }
     ],
-    "words": []
+    "words": [
+      "蓋棺(개관), 蓋草(개초) 빼고 다 장음이다.\n"
+    ]
   },
   "距": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "상거할",
@@ -160,7 +164,7 @@
     "words": []
   },
   "乾": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "하늘/마를",
@@ -170,7 +174,7 @@
     "words": []
   },
   "劍": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "칼",
@@ -180,7 +184,7 @@
     "words": []
   },
   "隔": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "사이 뜰",
@@ -190,7 +194,7 @@
     "words": []
   },
   "訣": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "이별할",
@@ -200,7 +204,7 @@
     "words": []
   },
   "兼": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "겸할",
@@ -210,7 +214,7 @@
     "words": []
   },
   "謙": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "겸손할",
@@ -220,7 +224,7 @@
     "words": []
   },
   "頃": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "이랑/잠깐",
@@ -230,7 +234,7 @@
     "words": []
   },
   "徑": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "지름길/길",
@@ -240,7 +244,7 @@
     "words": []
   },
   "硬": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "굳을",
@@ -250,7 +254,7 @@
     "words": []
   },
   "耕": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "밭갈",
@@ -260,17 +264,19 @@
     "words": []
   },
   "契": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "맺을",
         "eum": "계(:)"
       }
     ],
-    "words": []
+    "words": [
+      "거란의 한자 이름인 契丹(계단)만 단음이다.\n"
+    ]
   },
   "桂": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "계수나무",
@@ -280,7 +286,7 @@
     "words": []
   },
   "啓": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "열",
@@ -290,7 +296,7 @@
     "words": []
   },
   "溪": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "시내",
@@ -300,7 +306,7 @@
     "words": []
   },
   "械": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "기계",
@@ -310,7 +316,7 @@
     "words": []
   },
   "姑": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "시어미",
@@ -320,7 +326,7 @@
     "words": []
   },
   "稿": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "원고/볏짚",
@@ -330,7 +336,7 @@
     "words": []
   },
   "鼓": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "북",
@@ -340,7 +346,7 @@
     "words": []
   },
   "哭": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "울",
@@ -350,7 +356,7 @@
     "words": []
   },
   "谷": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "골",
@@ -360,7 +366,7 @@
     "words": []
   },
   "貢": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "바칠",
@@ -370,7 +376,7 @@
     "words": []
   },
   "供": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "이바지할",
@@ -380,17 +386,19 @@
     "words": []
   },
   "恐": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "두려울",
         "eum": "공(:)"
       }
     ],
-    "words": []
+    "words": [
+      "恐怖(공포)빼고 다 장음이다.\n"
+    ]
   },
   "恭": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "공손할",
@@ -400,7 +408,7 @@
     "words": []
   },
   "誇": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "자랑할",
@@ -410,7 +418,7 @@
     "words": []
   },
   "寡": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "적을",
@@ -420,7 +428,7 @@
     "words": []
   },
   "寬": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "너그러울",
@@ -430,17 +438,19 @@
     "words": []
   },
   "貫": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "꿸",
         "eum": "관(:)"
       }
     ],
-    "words": []
+    "words": [
+      "貫珠(관:주), 貫革(관:혁)만 장음이다.\n"
+    ]
   },
   "館": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "집",
@@ -450,7 +460,7 @@
     "words": []
   },
   "慣": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "익숙할",
@@ -460,7 +470,7 @@
     "words": []
   },
   "冠": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "갓",
@@ -470,7 +480,7 @@
     "words": []
   },
   "狂": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "미칠",
@@ -480,7 +490,7 @@
     "words": []
   },
   "壞": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "무너질",
@@ -490,17 +500,19 @@
     "words": []
   },
   "怪": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "괴이할",
         "eum": "괴(:)"
       }
     ],
-    "words": []
+    "words": [
+      "怪怪(괴괴), 怪常(괴상), 怪惡(괴악), 怪異(괴이), 怪歎(괴탄)만 단음이고 나머지는 장음이다.\n"
+    ]
   },
   "巧": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "공교할",
@@ -510,7 +522,7 @@
     "words": []
   },
   "較": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "견줄/비교할",
@@ -520,7 +532,7 @@
     "words": []
   },
   "久": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "오랠",
@@ -530,7 +542,7 @@
     "words": []
   },
   "拘": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "잡을",
@@ -540,7 +552,7 @@
     "words": []
   },
   "丘": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "언덕",
@@ -550,7 +562,7 @@
     "words": []
   },
   "菊": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "국화",
@@ -560,7 +572,7 @@
     "words": []
   },
   "弓": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "활",
@@ -570,7 +582,7 @@
     "words": []
   },
   "拳": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "주먹",
@@ -580,7 +592,7 @@
     "words": []
   },
   "鬼": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "귀신",
@@ -590,7 +602,7 @@
     "words": []
   },
   "菌": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "버섯",
@@ -600,7 +612,7 @@
     "words": []
   },
   "克": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "이길",
@@ -610,7 +622,7 @@
     "words": []
   },
   "禽": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "새",
@@ -620,7 +632,7 @@
     "words": []
   },
   "錦": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "비단",
@@ -630,7 +642,7 @@
     "words": []
   },
   "琴": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "거문고",
@@ -640,7 +652,7 @@
     "words": []
   },
   "及": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "미칠",
@@ -650,7 +662,7 @@
     "words": []
   },
   "騎": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "말탈",
@@ -660,7 +672,7 @@
     "words": []
   },
   "祈": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "빌",
@@ -670,7 +682,7 @@
     "words": []
   },
   "畿": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "경기",
@@ -680,7 +692,7 @@
     "words": []
   },
   "其": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "그",
@@ -690,7 +702,7 @@
     "words": []
   },
   "企": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "꾀할",
@@ -700,7 +712,7 @@
     "words": []
   },
   "緊": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "긴할",
@@ -710,7 +722,7 @@
     "words": []
   },
   "諾": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "허락할",
@@ -720,7 +732,7 @@
     "words": []
   },
   "娘": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "계집",
@@ -730,7 +742,7 @@
     "words": []
   },
   "耐": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "견딜",
@@ -740,7 +752,7 @@
     "words": []
   },
   "寧": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "편안",
@@ -750,7 +762,7 @@
     "words": []
   },
   "奴": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "종",
@@ -760,7 +772,7 @@
     "words": []
   },
   "腦": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "골/뇌수",
@@ -770,7 +782,7 @@
     "words": []
   },
   "泥": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "진흙",
@@ -780,17 +792,21 @@
     "words": []
   },
   "茶": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
-        "hun": "차 다 | 차",
+        "hun": "차",
+        "eum": "다"
+      },
+      {
+        "hun": "차",
         "eum": "차"
       }
     ],
     "words": []
   },
   "旦": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "아침",
@@ -800,7 +816,7 @@
     "words": []
   },
   "但": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "다만",
@@ -810,7 +826,7 @@
     "words": []
   },
   "丹": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "붉을",
@@ -820,7 +836,7 @@
     "words": []
   },
   "淡": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "맑을",
@@ -830,7 +846,7 @@
     "words": []
   },
   "踏": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "밟을",
@@ -840,27 +856,31 @@
     "words": []
   },
   "糖": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "엿",
         "eum": "당"
       }
     ],
-    "words": []
+    "words": [
+      "과거에는 '사탕 탕'이라는 훈음도 존재했었으나, 언젠가부터 삭제되었다.\n"
+    ]
   },
   "唐": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "당나라/당황할",
         "eum": "당(:)"
       }
     ],
-    "words": []
+    "words": [
+      "唐突(당:돌)만 장음이다.\n"
+    ]
   },
   "臺": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "대",
@@ -870,7 +890,7 @@
     "words": []
   },
   "貸": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "빌릴/뀔",
@@ -880,7 +900,7 @@
     "words": []
   },
   "渡": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "건널",
@@ -890,7 +910,7 @@
     "words": []
   },
   "桃": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "복숭아",
@@ -900,7 +920,7 @@
     "words": []
   },
   "倒": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "넘어질",
@@ -910,7 +930,7 @@
     "words": []
   },
   "陶": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "질그릇",
@@ -920,7 +940,7 @@
     "words": []
   },
   "途": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "길",
@@ -930,7 +950,7 @@
     "words": []
   },
   "刀": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "칼",
@@ -940,7 +960,7 @@
     "words": []
   },
   "突": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "갑자기",
@@ -950,7 +970,7 @@
     "words": []
   },
   "凍": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "얼",
@@ -960,7 +980,7 @@
     "words": []
   },
   "絡": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "이을/얽을",
@@ -970,7 +990,7 @@
     "words": []
   },
   "欄": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "난간",
@@ -980,7 +1000,7 @@
     "words": []
   },
   "蘭": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "난초",
@@ -990,17 +1010,19 @@
     "words": []
   },
   "浪": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "물결",
         "eum": "랑(:)"
       }
     ],
-    "words": []
+    "words": [
+      "浪太(낭태)빼고 나머지는 장음이나, 표준국어대사전의 경우 낭태 역시도 장음으로 되어 있다.\n"
+    ]
   },
   "廊": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "사랑채/행랑",
@@ -1010,7 +1032,7 @@
     "words": []
   },
   "郞": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "사내",
@@ -1020,7 +1042,7 @@
     "words": []
   },
   "涼": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "서늘할",
@@ -1030,7 +1052,7 @@
     "words": []
   },
   "梁": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "들보/돌다리",
@@ -1040,7 +1062,7 @@
     "words": []
   },
   "勵": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "힘쓸",
@@ -1050,7 +1072,7 @@
     "words": []
   },
   "曆": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "책력",
@@ -1060,7 +1082,7 @@
     "words": []
   },
   "鍊": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "쇠불릴/단련할",
@@ -1070,7 +1092,7 @@
     "words": []
   },
   "蓮": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "연꽃",
@@ -1080,7 +1102,7 @@
     "words": []
   },
   "聯": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "연이을",
@@ -1090,7 +1112,7 @@
     "words": []
   },
   "戀": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "그리워할/그릴",
@@ -1100,7 +1122,7 @@
     "words": []
   },
   "裂": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "찢어질",
@@ -1110,7 +1132,7 @@
     "words": []
   },
   "靈": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "신령",
@@ -1120,7 +1142,7 @@
     "words": []
   },
   "嶺": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "고개",
@@ -1130,17 +1152,19 @@
     "words": []
   },
   "露": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "이슬",
         "eum": "로(:)"
       }
     ],
-    "words": []
+    "words": [
+      "露積(노:적)만 장음이다.\n"
+    ]
   },
   "爐": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "화로",
@@ -1150,7 +1174,7 @@
     "words": []
   },
   "祿": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "녹",
@@ -1160,7 +1184,7 @@
     "words": []
   },
   "弄": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "희롱할",
@@ -1170,7 +1194,7 @@
     "words": []
   },
   "賴": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "의뢰할",
@@ -1180,7 +1204,7 @@
     "words": []
   },
   "雷": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "우레",
@@ -1190,7 +1214,7 @@
     "words": []
   },
   "漏": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "샐",
@@ -1200,7 +1224,7 @@
     "words": []
   },
   "樓": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "다락",
@@ -1210,7 +1234,7 @@
     "words": []
   },
   "累": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "여러/자주",
@@ -1220,7 +1244,7 @@
     "words": []
   },
   "倫": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "인륜",
@@ -1230,17 +1254,21 @@
     "words": []
   },
   "率": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
-        "hun": "비율 률 | 거느릴",
+        "hun": "비율",
+        "eum": "률"
+      },
+      {
+        "hun": "거느릴",
         "eum": "솔"
       }
     ],
     "words": []
   },
   "栗": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "밤",
@@ -1250,7 +1278,7 @@
     "words": []
   },
   "隆": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "높을",
@@ -1260,7 +1288,7 @@
     "words": []
   },
   "陵": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "언덕",
@@ -1270,7 +1298,7 @@
     "words": []
   },
   "吏": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "벼슬아치/관리",
@@ -1280,7 +1308,7 @@
     "words": []
   },
   "履": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "밟을",
@@ -1290,7 +1318,7 @@
     "words": []
   },
   "裏": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "속",
@@ -1300,7 +1328,7 @@
     "words": []
   },
   "臨": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "임할",
@@ -1310,7 +1338,7 @@
     "words": []
   },
   "磨": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "갈",
@@ -1320,17 +1348,19 @@
     "words": []
   },
   "麻": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "삼",
         "eum": "마(:)"
       }
     ],
-    "words": []
+    "words": [
+      "麻雀(마:작)만 장음이다.\n"
+    ]
   },
   "漠": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "넓을",
@@ -1340,7 +1370,7 @@
     "words": []
   },
   "莫": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "없을",
@@ -1350,7 +1380,7 @@
     "words": []
   },
   "幕": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "장막",
@@ -1360,7 +1390,7 @@
     "words": []
   },
   "晩": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "늦을",
@@ -1370,7 +1400,7 @@
     "words": []
   },
   "妄": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "망령될",
@@ -1380,7 +1410,7 @@
     "words": []
   },
   "媒": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "중매",
@@ -1390,7 +1420,7 @@
     "words": []
   },
   "梅": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "매화",
@@ -1400,7 +1430,7 @@
     "words": []
   },
   "麥": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "보리",
@@ -1410,17 +1440,19 @@
     "words": []
   },
   "孟": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "맏",
         "eum": "맹(:)"
       }
     ],
-    "words": []
+    "words": [
+      "孟浪(맹랑) 빼고 다 장음이다. 단, 표준국어대사전에서는 장음으로 기록돼 있다.\n"
+    ]
   },
   "猛": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "사나울",
@@ -1430,7 +1462,7 @@
     "words": []
   },
   "盲": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "소경/눈멀",
@@ -1440,7 +1472,7 @@
     "words": []
   },
   "盟": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "맹세",
@@ -1450,7 +1482,7 @@
     "words": []
   },
   "眠": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "잘",
@@ -1460,7 +1492,7 @@
     "words": []
   },
   "綿": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "솜",
@@ -1470,7 +1502,7 @@
     "words": []
   },
   "免": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "면할",
@@ -1480,7 +1512,7 @@
     "words": []
   },
   "滅": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "꺼질/멸할",
@@ -1490,7 +1522,7 @@
     "words": []
   },
   "銘": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "새길",
@@ -1500,7 +1532,7 @@
     "words": []
   },
   "謀": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "꾀",
@@ -1510,7 +1542,7 @@
     "words": []
   },
   "貌": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "모양",
@@ -1520,7 +1552,7 @@
     "words": []
   },
   "慕": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "그릴",
@@ -1530,7 +1562,7 @@
     "words": []
   },
   "睦": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "화목할",
@@ -1540,7 +1572,7 @@
     "words": []
   },
   "沒": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "빠질",
@@ -1550,7 +1582,7 @@
     "words": []
   },
   "蒙": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "어두울",
@@ -1560,7 +1592,7 @@
     "words": []
   },
   "夢": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "꿈",
@@ -1570,7 +1602,7 @@
     "words": []
   },
   "貿": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "무역할",
@@ -1580,7 +1612,7 @@
     "words": []
   },
   "茂": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "무성할",
@@ -1590,7 +1622,7 @@
     "words": []
   },
   "墨": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "먹",
@@ -1600,7 +1632,7 @@
     "words": []
   },
   "默": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "잠잠할",
@@ -1610,7 +1642,7 @@
     "words": []
   },
   "紋": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "무늬",
@@ -1620,7 +1652,7 @@
     "words": []
   },
   "勿": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "말",
@@ -1630,7 +1662,7 @@
     "words": []
   },
   "微": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "작을",
@@ -1640,7 +1672,7 @@
     "words": []
   },
   "尾": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "꼬리",
@@ -1650,7 +1682,7 @@
     "words": []
   },
   "迫": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "핍박할",
@@ -1660,7 +1692,7 @@
     "words": []
   },
   "薄": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "엷을",
@@ -1670,7 +1702,7 @@
     "words": []
   },
   "般": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "가지/일반",
@@ -1680,7 +1712,7 @@
     "words": []
   },
   "盤": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "소반",
@@ -1690,7 +1722,7 @@
     "words": []
   },
   "飯": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "밥",
@@ -1700,7 +1732,7 @@
     "words": []
   },
   "拔": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "뽑을",
@@ -1710,7 +1742,7 @@
     "words": []
   },
   "芳": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "꽃다울",
@@ -1720,7 +1752,7 @@
     "words": []
   },
   "輩": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "무리",
@@ -1730,7 +1762,7 @@
     "words": []
   },
   "培": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "북돋울",
@@ -1740,17 +1772,19 @@
     "words": []
   },
   "排": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "밀칠",
         "eum": "배"
       }
     ],
-    "words": []
+    "words": [
+      "배구(排球), 배척(排斥), 배란(排卵) 등에 이 한자를 쓴다.\n"
+    ]
   },
   "伯": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "맏",
@@ -1760,7 +1794,7 @@
     "words": []
   },
   "繁": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "번성할",
@@ -1770,17 +1804,19 @@
     "words": []
   },
   "凡": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "무릇",
         "eum": "범(:)"
       }
     ],
-    "words": []
+    "words": [
+      "성씨를 의미하거나 凡節(범절)은 단음이고 나머지는 장음이다. 단, 범절의 경우 표준국어대사전에서는 장음으로 처리하고 있다.\n"
+    ]
   },
   "碧": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "푸를",
@@ -1790,7 +1826,7 @@
     "words": []
   },
   "丙": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "남녘",
@@ -1800,7 +1836,7 @@
     "words": []
   },
   "譜": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "족보",
@@ -1810,7 +1846,7 @@
     "words": []
   },
   "補": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "기울",
@@ -1820,17 +1856,21 @@
     "words": []
   },
   "覆": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
-        "hun": "덮을 부 | 다시",
+        "hun": "덮을",
+        "eum": "부"
+      },
+      {
+        "hun": "다시",
         "eum": "복"
       }
     ],
     "words": []
   },
   "腹": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "배",
@@ -1840,7 +1880,7 @@
     "words": []
   },
   "鳳": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "봉새",
@@ -1850,7 +1890,7 @@
     "words": []
   },
   "封": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "봉할",
@@ -1860,7 +1900,7 @@
     "words": []
   },
   "峯": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "봉우리",
@@ -1870,7 +1910,7 @@
     "words": []
   },
   "逢": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "만날",
@@ -1880,17 +1920,19 @@
     "words": []
   },
   "符": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "부호",
         "eum": "부(:)"
       }
     ],
-    "words": []
+    "words": [
+      "符信(부:신), 符作(부:작), 符籍(부:적), 符合(부:합), 符號(부:호), 符讖(부:참)(특급책에는 부첨으로 되어있는데 오타로 추정된다.)은 장음, 기타는 단음이다.\n"
+    ]
   },
   "付": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "부칠",
@@ -1900,7 +1942,7 @@
     "words": []
   },
   "浮": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "뜰",
@@ -1910,7 +1952,7 @@
     "words": []
   },
   "賦": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "부세",
@@ -1920,7 +1962,7 @@
     "words": []
   },
   "腐": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "썩을",
@@ -1930,17 +1972,19 @@
     "words": []
   },
   "附": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "붙을",
         "eum": "부(:)"
       }
     ],
-    "words": []
+    "words": [
+      "이체자로 砂가 있으며, 준특급에 속해 있다.\n"
+    ]
   },
   "簿": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "문서",
@@ -1950,7 +1994,7 @@
     "words": []
   },
   "扶": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "도울",
@@ -1960,7 +2004,7 @@
     "words": []
   },
   "奔": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "달릴",
@@ -1970,7 +2014,7 @@
     "words": []
   },
   "奮": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "떨칠",
@@ -1980,7 +2024,7 @@
     "words": []
   },
   "紛": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "어지러울",
@@ -1990,7 +2034,7 @@
     "words": []
   },
   "拂": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "떨칠",
@@ -2000,7 +2044,7 @@
     "words": []
   },
   "妃": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "왕비",
@@ -2010,7 +2054,7 @@
     "words": []
   },
   "婢": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "계집종",
@@ -2020,7 +2064,7 @@
     "words": []
   },
   "肥": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "살찔",
@@ -2030,7 +2074,7 @@
     "words": []
   },
   "卑": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "낮을",
@@ -2040,7 +2084,7 @@
     "words": []
   },
   "邪": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "간사할",
@@ -2050,17 +2094,19 @@
     "words": []
   },
   "沙": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "모래",
         "eum": "사"
       }
     ],
-    "words": []
+    "words": [
+      "성씨, 벼슬, 관청명(官廳名), 尙友(상우), 尙子(상자), 尙齒(상치)는 단음이고 높인다는 뜻은 대부분 장음, 아직, 오히려라는 뜻과, 尙論(상:론)은 무조건 장음이다.\n"
+    ]
   },
   "司": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "맡을",
@@ -2070,7 +2116,7 @@
     "words": []
   },
   "蛇": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "긴뱀",
@@ -2080,7 +2126,7 @@
     "words": []
   },
   "斜": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "비낄",
@@ -2090,7 +2136,7 @@
     "words": []
   },
   "詞": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "말/글",
@@ -2100,7 +2146,7 @@
     "words": []
   },
   "祀": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "제사",
@@ -2110,7 +2156,7 @@
     "words": []
   },
   "削": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "깎을",
@@ -2120,7 +2166,7 @@
     "words": []
   },
   "森": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "수풀",
@@ -2130,7 +2176,7 @@
     "words": []
   },
   "霜": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "서리",
@@ -2140,7 +2186,7 @@
     "words": []
   },
   "裳": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "치마",
@@ -2150,7 +2196,7 @@
     "words": []
   },
   "桑": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "뽕나무",
@@ -2160,7 +2206,7 @@
     "words": []
   },
   "喪": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "잃을",
@@ -2170,7 +2216,7 @@
     "words": []
   },
   "詳": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "자세할",
@@ -2180,17 +2226,19 @@
     "words": []
   },
   "尙": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "오히려",
         "eum": "상(:)"
       }
     ],
-    "words": []
+    "words": [
+      "성씨, 國名, 地名은 단음이다.\n"
+    ]
   },
   "像": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "모양",
@@ -2200,7 +2248,7 @@
     "words": []
   },
   "償": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "갚을",
@@ -2210,11 +2258,11 @@
     "words": []
   },
   "索": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
-        "hun": "찾을 색",
-        "eum": "|"
+        "hun": "찾을",
+        "eum": "색"
       },
       {
         "hun": "노",
@@ -2224,11 +2272,11 @@
     "words": []
   },
   "塞": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
-        "hun": "막힐 색",
-        "eum": "|"
+        "hun": "막힐",
+        "eum": "색"
       },
       {
         "hun": "변방",
@@ -2238,7 +2286,7 @@
     "words": []
   },
   "恕": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "용서할",
@@ -2248,7 +2296,7 @@
     "words": []
   },
   "緖": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "실마리",
@@ -2258,17 +2306,19 @@
     "words": []
   },
   "徐": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "천천할",
         "eum": "서(:)"
       }
     ],
-    "words": []
+    "words": [
+      "燒餠(소:병), 燒紙(소:지)만 장음이다.\n"
+    ]
   },
   "署": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "마을",
@@ -2278,7 +2328,7 @@
     "words": []
   },
   "惜": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "아낄",
@@ -2288,7 +2338,7 @@
     "words": []
   },
   "釋": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "풀",
@@ -2298,7 +2348,7 @@
     "words": []
   },
   "禪": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "선",
@@ -2308,7 +2358,7 @@
     "words": []
   },
   "旋": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "돌",
@@ -2318,7 +2368,7 @@
     "words": []
   },
   "訴": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "호소할",
@@ -2328,17 +2378,19 @@
     "words": []
   },
   "燒": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "사를",
         "eum": "소(:)"
       }
     ],
-    "words": []
+    "words": [
+      "審藥(심:약), 審議(심:의), 審判(심:판)만 장음이다.\n"
+    ]
   },
   "疏": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "소통할",
@@ -2348,7 +2400,7 @@
     "words": []
   },
   "蘇": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "되살아날",
@@ -2358,7 +2410,7 @@
     "words": []
   },
   "訟": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "송사할",
@@ -2368,7 +2420,7 @@
     "words": []
   },
   "鎖": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "쇠사슬",
@@ -2378,7 +2430,7 @@
     "words": []
   },
   "刷": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "인쇄할",
@@ -2388,7 +2440,7 @@
     "words": []
   },
   "衰": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "쇠할",
@@ -2398,7 +2450,7 @@
     "words": []
   },
   "愁": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "근심",
@@ -2408,7 +2460,7 @@
     "words": []
   },
   "壽": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "목숨",
@@ -2418,7 +2470,7 @@
     "words": []
   },
   "帥": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "장수",
@@ -2428,7 +2480,7 @@
     "words": []
   },
   "殊": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "다를",
@@ -2438,7 +2490,7 @@
     "words": []
   },
   "輸": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "보낼",
@@ -2448,7 +2500,7 @@
     "words": []
   },
   "隨": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "따를",
@@ -2458,7 +2510,7 @@
     "words": []
   },
   "需": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "쓰일/쓸",
@@ -2468,7 +2520,7 @@
     "words": []
   },
   "垂": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "드리울",
@@ -2478,7 +2530,7 @@
     "words": []
   },
   "獸": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "짐승",
@@ -2488,7 +2540,7 @@
     "words": []
   },
   "淑": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "맑을",
@@ -2498,7 +2550,7 @@
     "words": []
   },
   "熟": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "익을",
@@ -2508,7 +2560,7 @@
     "words": []
   },
   "旬": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "열흘",
@@ -2518,7 +2570,7 @@
     "words": []
   },
   "瞬": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "눈 깜짝일",
@@ -2528,7 +2580,7 @@
     "words": []
   },
   "巡": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "돌/순행할",
@@ -2538,7 +2590,7 @@
     "words": []
   },
   "述": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "펼",
@@ -2548,7 +2600,7 @@
     "words": []
   },
   "濕": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "젖을",
@@ -2558,11 +2610,11 @@
     "words": []
   },
   "拾": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
-        "hun": "주울 습",
-        "eum": "|"
+        "hun": "주울",
+        "eum": "습"
       },
       {
         "hun": "열",
@@ -2572,7 +2624,7 @@
     "words": []
   },
   "襲": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "엄습할",
@@ -2582,7 +2634,7 @@
     "words": []
   },
   "乘": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "탈",
@@ -2592,7 +2644,7 @@
     "words": []
   },
   "昇": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "오를",
@@ -2602,7 +2654,7 @@
     "words": []
   },
   "僧": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "중",
@@ -2612,7 +2664,7 @@
     "words": []
   },
   "侍": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "모실",
@@ -2622,7 +2674,7 @@
     "words": []
   },
   "飾": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "꾸밀",
@@ -2632,7 +2684,7 @@
     "words": []
   },
   "愼": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "삼갈",
@@ -2642,7 +2694,7 @@
     "words": []
   },
   "甚": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "심할",
@@ -2652,17 +2704,19 @@
     "words": []
   },
   "審": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "살필",
         "eum": "심(:)"
       }
     ],
-    "words": []
+    "words": [
+      "雅淡(아담)빼고 장음이나, 국립국어원에서는 아담 역시도 장음으로 취급하고 있다.\n"
+    ]
   },
   "雙": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "두",
@@ -2672,17 +2726,19 @@
     "words": []
   },
   "雅": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "맑을",
         "eum": "아(:)"
       }
     ],
-    "words": []
+    "words": [
+      "亞細亞(아세아) 같은 음역어, 亞麻(아마) 같은 풀이름, 亞鉛(아연)같이 광물이름은 단음,\n"
+    ]
   },
   "我": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "나",
@@ -2692,7 +2748,7 @@
     "words": []
   },
   "阿": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "언덕",
@@ -2702,17 +2758,19 @@
     "words": []
   },
   "亞": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "버금",
         "eum": "아(:)"
       }
     ],
-    "words": []
+    "words": [
+      "게양(揭揚), 부양(浮揚), 양력(揚力), 억양(抑揚), 인양(引揚), 찬양(讚揚), 국위선양(國威宣揚), 의기양양(意氣揚揚) 등에 이 한자를 쓴다.\n"
+    ]
   },
   "芽": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "싹",
@@ -2722,7 +2780,7 @@
     "words": []
   },
   "牙": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "어금니",
@@ -2732,7 +2790,7 @@
     "words": []
   },
   "顔": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "낯",
@@ -2742,7 +2800,7 @@
     "words": []
   },
   "岸": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "언덕",
@@ -2752,7 +2810,7 @@
     "words": []
   },
   "巖": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "바위",
@@ -2762,7 +2820,7 @@
     "words": []
   },
   "仰": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "우러를",
@@ -2772,7 +2830,7 @@
     "words": []
   },
   "央": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "가운데",
@@ -2782,7 +2840,7 @@
     "words": []
   },
   "哀": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "슬플",
@@ -2792,11 +2850,11 @@
     "words": []
   },
   "若": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
-        "hun": "같을 약",
-        "eum": "|"
+        "hun": "같을",
+        "eum": "약"
       },
       {
         "hun": "반야",
@@ -2806,7 +2864,7 @@
     "words": []
   },
   "讓": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "사양할",
@@ -2816,7 +2874,7 @@
     "words": []
   },
   "壤": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "흙덩이",
@@ -2826,17 +2884,19 @@
     "words": []
   },
   "揚": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "날릴",
         "eum": "양"
       }
     ],
-    "words": []
+    "words": [
+      "人名, 地名과 관련 되면 단음이고 나머지는 장음이나, 국립국어원 표준국어대사전에서는 전부 장음으로 처리하고 있다.\n"
+    ]
   },
   "御": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "거느릴",
@@ -2846,7 +2906,7 @@
     "words": []
   },
   "憶": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "생각할",
@@ -2856,7 +2916,7 @@
     "words": []
   },
   "抑": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "누를",
@@ -2866,7 +2926,7 @@
     "words": []
   },
   "疫": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "전염병",
@@ -2876,7 +2936,7 @@
     "words": []
   },
   "亦": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "또",
@@ -2886,7 +2946,7 @@
     "words": []
   },
   "役": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "부릴",
@@ -2896,7 +2956,7 @@
     "words": []
   },
   "譯": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "번역할",
@@ -2906,7 +2966,7 @@
     "words": []
   },
   "驛": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "역",
@@ -2916,7 +2976,7 @@
     "words": []
   },
   "沿": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "물따라갈/따를",
@@ -2926,7 +2986,7 @@
     "words": []
   },
   "軟": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "연할",
@@ -2936,7 +2996,7 @@
     "words": []
   },
   "宴": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "잔치",
@@ -2946,17 +3006,19 @@
     "words": []
   },
   "燕": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "제비",
         "eum": "연(:)"
       }
     ],
-    "words": []
+    "words": [
+      "'자'음만 장음이다.\n"
+    ]
   },
   "悅": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "기쁠",
@@ -2966,7 +3028,7 @@
     "words": []
   },
   "染": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "물들",
@@ -2976,7 +3038,7 @@
     "words": []
   },
   "鹽": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "소금",
@@ -2986,7 +3048,7 @@
     "words": []
   },
   "炎": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "불꽃",
@@ -2996,7 +3058,7 @@
     "words": []
   },
   "影": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "그림자",
@@ -3006,7 +3068,7 @@
     "words": []
   },
   "譽": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "기릴/명예",
@@ -3016,7 +3078,7 @@
     "words": []
   },
   "烏": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "까마귀",
@@ -3026,7 +3088,7 @@
     "words": []
   },
   "悟": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "깨달을",
@@ -3036,7 +3098,7 @@
     "words": []
   },
   "獄": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "옥",
@@ -3046,7 +3108,7 @@
     "words": []
   },
   "瓦": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "기와",
@@ -3056,7 +3118,7 @@
     "words": []
   },
   "緩": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "느릴",
@@ -3066,7 +3128,7 @@
     "words": []
   },
   "慾": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "욕심",
@@ -3076,7 +3138,7 @@
     "words": []
   },
   "欲": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "하고자할",
@@ -3086,7 +3148,7 @@
     "words": []
   },
   "辱": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "욕될",
@@ -3096,7 +3158,7 @@
     "words": []
   },
   "憂": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "근심",
@@ -3106,7 +3168,7 @@
     "words": []
   },
   "偶": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "짝",
@@ -3116,7 +3178,7 @@
     "words": []
   },
   "宇": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "집",
@@ -3126,7 +3188,7 @@
     "words": []
   },
   "愚": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "어리석을",
@@ -3136,7 +3198,7 @@
     "words": []
   },
   "羽": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "깃",
@@ -3146,7 +3208,7 @@
     "words": []
   },
   "韻": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "운",
@@ -3156,7 +3218,7 @@
     "words": []
   },
   "越": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "넘을",
@@ -3166,7 +3228,7 @@
     "words": []
   },
   "胃": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "밥통",
@@ -3176,7 +3238,7 @@
     "words": []
   },
   "僞": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "거짓",
@@ -3186,7 +3248,7 @@
     "words": []
   },
   "謂": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "이를",
@@ -3196,7 +3258,7 @@
     "words": []
   },
   "猶": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "오히려",
@@ -3206,7 +3268,7 @@
     "words": []
   },
   "幽": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "그윽할",
@@ -3216,7 +3278,7 @@
     "words": []
   },
   "幼": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "어릴",
@@ -3226,7 +3288,7 @@
     "words": []
   },
   "柔": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "부드러울",
@@ -3236,7 +3298,7 @@
     "words": []
   },
   "維": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "벼리",
@@ -3246,7 +3308,7 @@
     "words": []
   },
   "裕": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "넉넉할",
@@ -3256,7 +3318,7 @@
     "words": []
   },
   "誘": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "꾈",
@@ -3266,7 +3328,7 @@
     "words": []
   },
   "悠": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "멀",
@@ -3276,7 +3338,7 @@
     "words": []
   },
   "潤": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "불을",
@@ -3286,7 +3348,7 @@
     "words": []
   },
   "乙": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "새",
@@ -3296,7 +3358,7 @@
     "words": []
   },
   "淫": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "음란할",
@@ -3306,7 +3368,7 @@
     "words": []
   },
   "已": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "이미",
@@ -3316,7 +3378,7 @@
     "words": []
   },
   "翼": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "날개",
@@ -3326,7 +3388,7 @@
     "words": []
   },
   "忍": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "참을",
@@ -3336,7 +3398,7 @@
     "words": []
   },
   "逸": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "편안할",
@@ -3346,7 +3408,7 @@
     "words": []
   },
   "壬": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "북방",
@@ -3356,7 +3418,7 @@
     "words": []
   },
   "賃": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "품삯",
@@ -3366,7 +3428,7 @@
     "words": []
   },
   "紫": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "자줏빛",
@@ -3376,7 +3438,7 @@
     "words": []
   },
   "慈": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "사랑",
@@ -3386,27 +3448,35 @@
     "words": []
   },
   "刺": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
-        "hun": "찌를 자: | 찌를",
+        "hun": "찌를",
+        "eum": "자:"
+      },
+      {
+        "hun": "찌를",
         "eum": "척"
       }
     ],
-    "words": []
+    "words": [
+      "暫時(잠:시)만 장음이다.\n"
+    ]
   },
   "暫": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "잠깐",
         "eum": "잠(:)"
       }
     ],
-    "words": []
+    "words": [
+      "井邑詞(정:읍사)만 장음이나, 국립국어원 표준국어대사전에서는 단음이다.\n"
+    ]
   },
   "潛": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "잠길",
@@ -3416,7 +3486,7 @@
     "words": []
   },
   "莊": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "씩씩할",
@@ -3426,7 +3496,7 @@
     "words": []
   },
   "葬": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "장사지낼",
@@ -3436,7 +3506,7 @@
     "words": []
   },
   "臟": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "오장",
@@ -3446,7 +3516,7 @@
     "words": []
   },
   "粧": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "단장할",
@@ -3456,7 +3526,7 @@
     "words": []
   },
   "掌": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "손바닥",
@@ -3466,7 +3536,7 @@
     "words": []
   },
   "丈": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "어른",
@@ -3476,7 +3546,7 @@
     "words": []
   },
   "藏": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "감출",
@@ -3486,7 +3556,7 @@
     "words": []
   },
   "栽": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "심을",
@@ -3496,7 +3566,7 @@
     "words": []
   },
   "裁": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "옷마를",
@@ -3506,7 +3576,7 @@
     "words": []
   },
   "載": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "실을",
@@ -3516,7 +3586,7 @@
     "words": []
   },
   "著": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "나타날",
@@ -3526,7 +3596,7 @@
     "words": []
   },
   "抵": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "막을",
@@ -3536,7 +3606,7 @@
     "words": []
   },
   "跡": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "발자취",
@@ -3546,7 +3616,7 @@
     "words": []
   },
   "寂": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "고요할",
@@ -3556,7 +3626,7 @@
     "words": []
   },
   "笛": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "피리",
@@ -3566,7 +3636,7 @@
     "words": []
   },
   "摘": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "딸",
@@ -3576,7 +3646,7 @@
     "words": []
   },
   "蹟": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "자취",
@@ -3586,7 +3656,7 @@
     "words": []
   },
   "殿": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "전각",
@@ -3596,7 +3666,7 @@
     "words": []
   },
   "漸": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "점점",
@@ -3606,7 +3676,7 @@
     "words": []
   },
   "淨": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "깨끗할",
@@ -3616,7 +3686,7 @@
     "words": []
   },
   "頂": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "정수리",
@@ -3626,17 +3696,19 @@
     "words": []
   },
   "井": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "우물",
         "eum": "정(:)"
       }
     ],
-    "words": []
+    "words": [
+      "奏效(주효) 빼고 장음이다.\n"
+    ]
   },
   "亭": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "정자",
@@ -3646,7 +3718,7 @@
     "words": []
   },
   "廷": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "조정",
@@ -3656,7 +3728,7 @@
     "words": []
   },
   "貞": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "곧을",
@@ -3666,7 +3738,7 @@
     "words": []
   },
   "征": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "칠",
@@ -3676,7 +3748,7 @@
     "words": []
   },
   "諸": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "모두",
@@ -3686,7 +3758,7 @@
     "words": []
   },
   "齊": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "가지런할",
@@ -3696,7 +3768,7 @@
     "words": []
   },
   "租": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "조세",
@@ -3706,7 +3778,7 @@
     "words": []
   },
   "照": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "비칠",
@@ -3716,7 +3788,7 @@
     "words": []
   },
   "兆": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "억조",
@@ -3726,7 +3798,7 @@
     "words": []
   },
   "縱": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "세로",
@@ -3736,7 +3808,7 @@
     "words": []
   },
   "坐": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "앉을",
@@ -3746,7 +3818,7 @@
     "words": []
   },
   "柱": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "기둥",
@@ -3756,7 +3828,7 @@
     "words": []
   },
   "珠": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "구슬",
@@ -3766,7 +3838,7 @@
     "words": []
   },
   "株": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "그루",
@@ -3776,17 +3848,19 @@
     "words": []
   },
   "奏": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "아뢸",
         "eum": "주(:)"
       }
     ],
-    "words": []
+    "words": [
+      "친인척과 관련된 것만 장음이다.\n"
+    ]
   },
   "洲": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "물가",
@@ -3796,7 +3870,7 @@
     "words": []
   },
   "鑄": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "쇠불릴",
@@ -3806,7 +3880,7 @@
     "words": []
   },
   "宙": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "집",
@@ -3816,17 +3890,19 @@
     "words": []
   },
   "仲": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "버금",
         "eum": "중(:)"
       }
     ],
-    "words": []
+    "words": [
+      "화병의 뜻 빼고 다 단음이다.\n"
+    ]
   },
   "卽": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "곧",
@@ -3836,7 +3912,7 @@
     "words": []
   },
   "憎": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "미울",
@@ -3846,7 +3922,7 @@
     "words": []
   },
   "曾": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "일찍",
@@ -3856,17 +3932,19 @@
     "words": []
   },
   "症": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "증세",
         "eum": "증(:)"
       }
     ],
-    "words": []
+    "words": [
+      "베푼다는 뜻(陳述 등)은 장음, 낡다는 뜻(陳腐 등)은 단음이다.\n"
+    ]
   },
   "蒸": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "찔",
@@ -3876,7 +3954,7 @@
     "words": []
   },
   "之": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "갈",
@@ -3886,7 +3964,7 @@
     "words": []
   },
   "池": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "못",
@@ -3896,7 +3974,7 @@
     "words": []
   },
   "枝": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "가지",
@@ -3906,17 +3984,19 @@
     "words": []
   },
   "陳": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "베풀 진: / 묵을",
         "eum": "진"
       }
     ],
-    "words": []
+    "words": [
+      "地名이나, 鎭靜(진정), 鎭魂(진혼)빼고 다 장음이다. 국립국어원에서는 지명만 단음으로 인정하고 있다.\n"
+    ]
   },
   "震": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "우레",
@@ -3926,27 +4006,33 @@
     "words": []
   },
   "鎭": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "진압할",
         "eum": "진(:)"
       }
     ],
-    "words": []
+    "words": [
+      "昌慶苑(창경원), 昌德宮(창덕궁) 昌盛(창성)만 장음이나, 국립국어원 표준국어대사전에서는 모두 단음이다.\n"
+    ]
   },
   "辰": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
-        "hun": "별 진 | 때",
+        "hun": "별",
+        "eum": "진"
+      },
+      {
+        "hun": "때",
         "eum": "신"
       }
     ],
     "words": []
   },
   "振": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "떨칠",
@@ -3956,7 +4042,7 @@
     "words": []
   },
   "疾": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "병",
@@ -3966,7 +4052,7 @@
     "words": []
   },
   "秩": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "차례",
@@ -3976,7 +4062,7 @@
     "words": []
   },
   "執": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "잡을",
@@ -3986,7 +4072,7 @@
     "words": []
   },
   "徵": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "부를",
@@ -3996,7 +4082,7 @@
     "words": []
   },
   "此": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "이",
@@ -4006,7 +4092,7 @@
     "words": []
   },
   "借": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "빌/빌릴",
@@ -4016,7 +4102,7 @@
     "words": []
   },
   "錯": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "어긋날",
@@ -4026,7 +4112,7 @@
     "words": []
   },
   "贊": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "도울",
@@ -4036,17 +4122,19 @@
     "words": []
   },
   "昌": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "창성할",
         "eum": "창(:)"
       }
     ],
-    "words": []
+    "words": [
+      "倉卒(창:졸)만 장음이다.\n"
+    ]
   },
   "蒼": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "푸를",
@@ -4056,17 +4144,19 @@
     "words": []
   },
   "倉": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "곳집",
         "eum": "창(:)"
       }
     ],
-    "words": []
+    "words": [
+      "좌측(左側), 우측(右側)의 '측(側)'과 측백나무(側柏-)의 '측(側)'이 이 한자다.\n"
+    ]
   },
   "債": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "빚",
@@ -4076,7 +4166,7 @@
     "words": []
   },
   "彩": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "채색",
@@ -4086,7 +4176,7 @@
     "words": []
   },
   "菜": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "나물",
@@ -4096,7 +4186,7 @@
     "words": []
   },
   "策": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "꾀",
@@ -4106,7 +4196,7 @@
     "words": []
   },
   "妻": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "아내",
@@ -4116,7 +4206,7 @@
     "words": []
   },
   "尺": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "자",
@@ -4126,7 +4216,7 @@
     "words": []
   },
   "戚": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "친척",
@@ -4136,7 +4226,7 @@
     "words": []
   },
   "拓": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "넓힐",
@@ -4146,7 +4236,7 @@
     "words": []
   },
   "踐": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "밟을",
@@ -4156,7 +4246,7 @@
     "words": []
   },
   "賤": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "천할",
@@ -4166,7 +4256,7 @@
     "words": []
   },
   "淺": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "얕을",
@@ -4176,7 +4266,7 @@
     "words": []
   },
   "遷": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "옮길",
@@ -4186,7 +4276,7 @@
     "words": []
   },
   "哲": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "밝을",
@@ -4196,7 +4286,7 @@
     "words": []
   },
   "徹": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "통할",
@@ -4206,7 +4296,7 @@
     "words": []
   },
   "滯": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "막힐",
@@ -4216,7 +4306,7 @@
     "words": []
   },
   "超": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "뛰어넘을",
@@ -4226,7 +4316,7 @@
     "words": []
   },
   "肖": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "닮을/같을",
@@ -4236,7 +4326,7 @@
     "words": []
   },
   "礎": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "주춧돌",
@@ -4246,7 +4336,7 @@
     "words": []
   },
   "觸": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "닿을",
@@ -4256,7 +4346,7 @@
     "words": []
   },
   "促": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "재촉할",
@@ -4266,7 +4356,7 @@
     "words": []
   },
   "催": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "재촉할",
@@ -4276,7 +4366,7 @@
     "words": []
   },
   "追": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "쫓을/따를",
@@ -4286,7 +4376,7 @@
     "words": []
   },
   "畜": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "짐승",
@@ -4296,7 +4386,7 @@
     "words": []
   },
   "衝": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "찌를",
@@ -4306,7 +4396,7 @@
     "words": []
   },
   "吹": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "불",
@@ -4316,7 +4406,7 @@
     "words": []
   },
   "醉": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "취할",
@@ -4326,17 +4416,19 @@
     "words": []
   },
   "側": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "곁",
         "eum": "측"
       }
     ],
-    "words": []
+    "words": [
+      "'심'음은 장음이다. 沈默(침:묵), 沈潛(침:잠), 沈靜(침:정), 沈重(침:중), 沈醉(침:취), 沈溺(침:닉), 沈淪(침:륜)도 장음이나, 국립국어원에서는 '침' 발음이 날 때는 모두 단음으로 보고 있다.\n"
+    ]
   },
   "値": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "값",
@@ -4346,7 +4438,7 @@
     "words": []
   },
   "恥": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "부끄러울",
@@ -4356,7 +4448,7 @@
     "words": []
   },
   "稚": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "어릴",
@@ -4366,7 +4458,7 @@
     "words": []
   },
   "漆": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "옻",
@@ -4376,7 +4468,7 @@
     "words": []
   },
   "浸": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "잠길",
@@ -4386,7 +4478,7 @@
     "words": []
   },
   "沈": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "잠길",
@@ -4397,10 +4489,12 @@
         "eum": "심:"
       }
     ],
-    "words": []
+    "words": [
+      "片紙(편:지)만 장음이다.\n"
+    ]
   },
   "奪": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "빼앗을",
@@ -4410,7 +4504,7 @@
     "words": []
   },
   "塔": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "탑",
@@ -4420,7 +4514,7 @@
     "words": []
   },
   "湯": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "끓일",
@@ -4430,7 +4524,7 @@
     "words": []
   },
   "殆": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "거의",
@@ -4440,7 +4534,7 @@
     "words": []
   },
   "泰": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "클",
@@ -4450,7 +4544,7 @@
     "words": []
   },
   "澤": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "못",
@@ -4460,7 +4554,7 @@
     "words": []
   },
   "吐": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "토할",
@@ -4470,7 +4564,7 @@
     "words": []
   },
   "兔": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "토끼",
@@ -4480,7 +4574,7 @@
     "words": []
   },
   "透": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "사무칠",
@@ -4490,7 +4584,7 @@
     "words": []
   },
   "版": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "판목",
@@ -4500,7 +4594,7 @@
     "words": []
   },
   "編": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "엮을",
@@ -4510,17 +4604,19 @@
     "words": []
   },
   "片": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "조각",
         "eum": "편(:)"
       }
     ],
-    "words": []
+    "words": [
+      "荷物(하:물), 荷役(하:역)만 장음이나, 국립국어원에서는 모두 단음으로 간주한다.\n"
+    ]
   },
   "偏": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "치우칠",
@@ -4530,7 +4626,7 @@
     "words": []
   },
   "肺": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "허파",
@@ -4540,7 +4636,7 @@
     "words": []
   },
   "廢": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "폐할/버릴",
@@ -4550,7 +4646,7 @@
     "words": []
   },
   "弊": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "폐단/해질",
@@ -4560,7 +4656,7 @@
     "words": []
   },
   "捕": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "잡을",
@@ -4570,7 +4666,7 @@
     "words": []
   },
   "浦": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "개",
@@ -4580,7 +4676,7 @@
     "words": []
   },
   "楓": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "단풍",
@@ -4590,7 +4686,7 @@
     "words": []
   },
   "被": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "입을",
@@ -4600,7 +4696,7 @@
     "words": []
   },
   "皮": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "가죽",
@@ -4610,7 +4706,7 @@
     "words": []
   },
   "彼": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "저",
@@ -4620,7 +4716,7 @@
     "words": []
   },
   "畢": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "마칠",
@@ -4630,17 +4726,19 @@
     "words": []
   },
   "荷": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "멜",
         "eum": "하(:)"
       }
     ],
-    "words": []
+    "words": [
+      "참고로 '연꽃'이라는 뜻도 있는데, 이 뜻으로 쓰인 단어는 박하(薄荷)와 천자문의 거하적력(渠荷的歷) 등이 있다.\n"
+    ]
   },
   "賀": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "하례할",
@@ -4650,7 +4748,7 @@
     "words": []
   },
   "何": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "어찌",
@@ -4660,7 +4758,7 @@
     "words": []
   },
   "鶴": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "학",
@@ -4670,17 +4768,19 @@
     "words": []
   },
   "汗": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "땀",
         "eum": "한(:)"
       }
     ],
-    "words": []
+    "words": [
+      "汗國(한국), 汗黨(한당)은 단음이고, 땀 관련 단어는 장음이다. 단, 국립국어원에서는 汗國도 장음으로 본다.\n"
+    ]
   },
   "割": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "벨",
@@ -4690,7 +4790,7 @@
     "words": []
   },
   "含": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "머금을",
@@ -4700,7 +4800,7 @@
     "words": []
   },
   "陷": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "빠질",
@@ -4710,7 +4810,7 @@
     "words": []
   },
   "恒": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "항상",
@@ -4720,7 +4820,7 @@
     "words": []
   },
   "項": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "항목",
@@ -4730,7 +4830,7 @@
     "words": []
   },
   "響": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "울릴",
@@ -4740,7 +4840,7 @@
     "words": []
   },
   "獻": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "드릴",
@@ -4750,7 +4850,7 @@
     "words": []
   },
   "懸": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "달",
@@ -4760,7 +4860,7 @@
     "words": []
   },
   "玄": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "검을",
@@ -4770,7 +4870,7 @@
     "words": []
   },
   "穴": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "굴",
@@ -4780,17 +4880,19 @@
     "words": []
   },
   "脅": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "위협할",
         "eum": "협"
       }
     ],
-    "words": []
+    "words": [
+      "이체자로 脇(준특급)이 있다. 참고로 일본에서는 脇(옆구리 협)과 脅(위협할 협)의 의미가 구분되어 있다.\n"
+    ]
   },
   "衡": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "저울대",
@@ -4800,7 +4902,7 @@
     "words": []
   },
   "慧": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "슬기로울",
@@ -4810,7 +4912,7 @@
     "words": []
   },
   "浩": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "넓을",
@@ -4820,7 +4922,7 @@
     "words": []
   },
   "豪": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "호걸",
@@ -4830,7 +4932,7 @@
     "words": []
   },
   "胡": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "되",
@@ -4840,17 +4942,19 @@
     "words": []
   },
   "虎": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "범",
         "eum": "호(:)"
       }
     ],
-    "words": []
+    "words": [
+      "虎班(호반) 빼고 나머지는 장음이나, 국립국어원에서는 모두 장음으로 보고 있다."
+    ]
   },
   "惑": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "미혹할",
@@ -4860,7 +4964,7 @@
     "words": []
   },
   "魂": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "넋",
@@ -4870,7 +4974,7 @@
     "words": []
   },
   "忽": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "갑자기",
@@ -4880,7 +4984,7 @@
     "words": []
   },
   "洪": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "넓을",
@@ -4890,7 +4994,7 @@
     "words": []
   },
   "禍": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "재앙",
@@ -4900,7 +5004,7 @@
     "words": []
   },
   "還": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "돌아올",
@@ -4910,7 +5014,7 @@
     "words": []
   },
   "換": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "바꿀",
@@ -4920,7 +5024,7 @@
     "words": []
   },
   "皇": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "임금",
@@ -4930,7 +5034,7 @@
     "words": []
   },
   "荒": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "거칠",
@@ -4940,7 +5044,7 @@
     "words": []
   },
   "懷": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "품을",
@@ -4950,7 +5054,7 @@
     "words": []
   },
   "悔": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "뉘우칠",
@@ -4960,7 +5064,7 @@
     "words": []
   },
   "獲": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "얻을",
@@ -4970,7 +5074,7 @@
     "words": []
   },
   "劃": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "그을",
@@ -4980,7 +5084,7 @@
     "words": []
   },
   "橫": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "가로",
@@ -4990,7 +5094,7 @@
     "words": []
   },
   "胸": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "가슴",
@@ -5000,7 +5104,7 @@
     "words": []
   },
   "稀": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "드물",
@@ -5010,7 +5114,7 @@
     "words": []
   },
   "戲": {
-    "level": "3-II",
+    "level": "3p",
     "huneum": [
       {
         "hun": "놀이",

@@ -1,0 +1,506 @@
+{
+  "家": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "집",
+        "eum": "가"
+      }
+    ],
+    "words": []
+  },
+  "間": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "사이",
+        "eum": "간(:)"
+      }
+    ],
+    "words": []
+  },
+  "江": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "강",
+        "eum": "강"
+      }
+    ],
+    "words": []
+  },
+  "車": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "수레",
+        "eum": "거"
+      },
+      {
+        "hun": "수레",
+        "eum": "차"
+      }
+    ],
+    "words": []
+  },
+  "工": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "장인",
+        "eum": "공"
+      }
+    ],
+    "words": []
+  },
+  "空": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "빌",
+        "eum": "공"
+      }
+    ],
+    "words": []
+  },
+  "氣": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "기운",
+        "eum": "기"
+      }
+    ],
+    "words": []
+  },
+  "記": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "기록할",
+        "eum": "기"
+      }
+    ],
+    "words": []
+  },
+  "男": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "사내",
+        "eum": "남"
+      }
+    ],
+    "words": []
+  },
+  "內": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "안",
+        "eum": "내:"
+      }
+    ],
+    "words": []
+  },
+  "農": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "농사",
+        "eum": "농"
+      }
+    ],
+    "words": []
+  },
+  "答": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "대답",
+        "eum": "답"
+      }
+    ],
+    "words": []
+  },
+  "道": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "길",
+        "eum": "도:"
+      }
+    ],
+    "words": []
+  },
+  "動": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "움직일",
+        "eum": "동:"
+      }
+    ],
+    "words": []
+  },
+  "力": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "힘",
+        "eum": "력"
+      }
+    ],
+    "words": []
+  },
+  "立": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "설",
+        "eum": "립"
+      }
+    ],
+    "words": []
+  },
+  "每": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "매양",
+        "eum": "매(:)"
+      }
+    ],
+    "words": []
+  },
+  "名": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "이름",
+        "eum": "명"
+      }
+    ],
+    "words": []
+  },
+  "物": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "물건",
+        "eum": "물"
+      }
+    ],
+    "words": []
+  },
+  "方": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "모",
+        "eum": "방"
+      }
+    ],
+    "words": []
+  },
+  "不": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "아닐",
+        "eum": "불"
+      }
+    ],
+    "words": []
+  },
+  "事": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "일",
+        "eum": "사:"
+      }
+    ],
+    "words": []
+  },
+  "上": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "윗",
+        "eum": "상:"
+      }
+    ],
+    "words": []
+  },
+  "姓": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "성",
+        "eum": "성:"
+      }
+    ],
+    "words": []
+  },
+  "世": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "인간",
+        "eum": "세:"
+      }
+    ],
+    "words": []
+  },
+  "手": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "손",
+        "eum": "수(:)"
+      }
+    ],
+    "words": []
+  },
+  "時": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "때",
+        "eum": "시"
+      }
+    ],
+    "words": []
+  },
+  "市": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "저자",
+        "eum": "시:"
+      }
+    ],
+    "words": []
+  },
+  "食": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "밥/먹을",
+        "eum": "식"
+      }
+    ],
+    "words": []
+  },
+  "安": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "편안",
+        "eum": "안"
+      }
+    ],
+    "words": []
+  },
+  "午": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "낮",
+        "eum": "오:"
+      }
+    ],
+    "words": []
+  },
+  "右": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "오를/오른(쪽)",
+        "eum": "우:"
+      }
+    ],
+    "words": []
+  },
+  "子": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "아들",
+        "eum": "자"
+      }
+    ],
+    "words": []
+  },
+  "自": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "스스로",
+        "eum": "자"
+      }
+    ],
+    "words": []
+  },
+  "場": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "마당",
+        "eum": "장"
+      }
+    ],
+    "words": []
+  },
+  "電": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "번개",
+        "eum": "전:"
+      }
+    ],
+    "words": []
+  },
+  "前": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "앞",
+        "eum": "전"
+      }
+    ],
+    "words": []
+  },
+  "全": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "온전",
+        "eum": "전"
+      }
+    ],
+    "words": []
+  },
+  "正": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "바를",
+        "eum": "정(:)"
+      }
+    ],
+    "words": []
+  },
+  "足": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "발",
+        "eum": "족"
+      }
+    ],
+    "words": []
+  },
+  "左": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "왼",
+        "eum": "좌:"
+      }
+    ],
+    "words": []
+  },
+  "直": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "곧을",
+        "eum": "직"
+      }
+    ],
+    "words": []
+  },
+  "平": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "평평할",
+        "eum": "평"
+      }
+    ],
+    "words": []
+  },
+  "下": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "아래",
+        "eum": "하:"
+      }
+    ],
+    "words": []
+  },
+  "漢": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "한수/한나라",
+        "eum": "한:"
+      }
+    ],
+    "words": []
+  },
+  "海": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "바다",
+        "eum": "해:"
+      }
+    ],
+    "words": []
+  },
+  "話": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "말씀",
+        "eum": "화"
+      }
+    ],
+    "words": []
+  },
+  "活": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "살",
+        "eum": "활"
+      }
+    ],
+    "words": []
+  },
+  "孝": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "효도",
+        "eum": "효:"
+      }
+    ],
+    "words": []
+  },
+  "後": {
+    "level": "7p",
+    "huneum": [
+      {
+        "hun": "뒤",
+        "eum": "후:"
+      }
+    ],
+    "words": []
+  }
+}
