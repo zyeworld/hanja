@@ -1,8 +1,0 @@
-ruby {
-    cursor: pointer;
-}
-
-ruby:hover {
-    color: blue;
-    text-shadow: 1px 1px 1px #0005;
-}

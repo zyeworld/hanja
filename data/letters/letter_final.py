@@ -67,7 +67,7 @@ level_data = {}
 for i in range(len(hanja_data)):
     level_data[hanja_data[i]['l']] = i
 
-json_data = {'level_data': level_data, 'hanja_data': hanja_data}
+json_data = {'level_list': level_data, 'hanja_list': hanja_data}
 
 json_str = json.dumps(json_data, ensure_ascii=False, indent=0, separators=(',', ':'))
 with open(dump_filename, 'w') as file:
