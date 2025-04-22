@@ -320,10 +320,26 @@ function display_quiz_answer() {
 }
 
 
-// *************************
-// Adding onclick to buttons
-// *************************
+// ***********
+// Game events
+// ***********
 
+const E_combo_container = document.querySelector('.combo-container');
+const E_combo = document.querySelector('.combo');
+const E_max_combo = document.querySelector('.max-combo');
+
+const game_state = {
+    combo: 0,
+    max_combo: 0,
+};
+const game_config = {
+    quiz_count: 20,
+    level: '0',
+    option_count: 4,
+};
+
+
+// Choosing answer
 for (let E_btn of EL_quiz_btns) {
     E_btn.addEventListener('click', (e) => {
         // 1. disable buttons
@@ -336,9 +352,22 @@ for (let E_btn of EL_quiz_btns) {
 
         // 2. display answer
         display_quiz_answer();
+
+        // 3. set combo number
+        if (e.target.classList.contains('correct')) {
+            game_state.combo += 1;
+            if (game_state.combo > game_state.max_combo) {
+                game_state.max_combo = game_state.combo;
+            }
+        } else {
+            game_state.combo = 0;
+        }
+        E_combo.innerHTML = game_state.combo.toString();
+        E_max_combo.innerHTML = game_state.max_combo.toString();
     });
 }
 
+// Clicking 'next'
 E_quiz_btn_next.addEventListener('click', (e) => {
     quiz_index += 1;
     if (quiz_index < quizzes.length) {
@@ -351,5 +380,7 @@ E_quiz_btn_next.addEventListener('click', (e) => {
     
 });
 
+// Initialize
 initialize_quizzes();
 display_quiz();
+E_combo_container.hidden = false;

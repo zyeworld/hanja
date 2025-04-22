@@ -18,6 +18,22 @@ main {
     background-color: #ddd;
 }
 
+/* Combo text */
+.combo-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 1rem;
+    font-size: 1.25rem;
+    text-align: right;
+}
+.combo, .max-combo {
+    font-weight: bold;
+}
+.max-combo-container {
+    color: #666;
+}
+
 /* Removing margin */
 h1, h2, h3 {
     margin-block-start: 0;
@@ -27,8 +43,7 @@ h1, h2, h3 {
 /* Word */
 h1 {
     margin-top: 2rem;
-    height: 8rem;
-    max-height: 8rem;
+    height: 5.5rem;
     text-align: center;
     font-size: 3rem;
 }
@@ -53,12 +68,14 @@ ruby:hover {
 h2 {
     margin: 0 1rem;
     font-weight: normal;
+    font-size: 2rem;
 }
 /* Flavor */
 h3 {
     margin: 0 1rem;
     text-align: right;
     font-style: italic;
+    font-size: 1.75rem;
 }
 
 /* Buttons */
@@ -110,29 +127,48 @@ footer button {
     background-color: #a1ebba;
 }
 
-@media only screen and (max-width: 640px) {
+@media screen and (max-width: 640px) {
     main {
         padding: 0;
     }
-
     .quiz {
         width: 100%;
     }
+    h1 {
+        font-size: 2.5rem;
+        height: 4.5rem;
+    }
+    h2 { font-size: 1.5rem; }
+    h3 { font-size: 1.25rem; }
     footer button {
         font-size: 6.5vw;
     }
+    .combo-container {
+        margin: 0.5rem;
+        font-size: 1rem;
+    }
 }
 
-@media only screen and (max-width: 360px) {
-    footer {
-        height: 40%;
+@media screen and (max-width: 360px) {
+    h1 {
+        font-size: 2rem;
+        height: 3.5rem;
+    }
+    h2 { font-size: 1.25rem; }
+    h3 { font-size: 1rem; }
+    .quiz-btn-next {
+        height: 20%;
     }
     .quiz-btns {
+        height: 80%;
         grid-template-columns: 1fr;
         grid-template-rows: repeat(4, 1fr);
     }
     footer button {
         font-size: 1rem;
         font-size: calc(0.5rem + 6vw);
+    }
+    .max-combo-container {
+        display: none;
     }
 }
