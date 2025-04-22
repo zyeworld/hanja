@@ -110,7 +110,29 @@ footer button {
     background-color: #a1ebba;
 }
 
+@media only screen and (max-width: 640px) {
+    main {
+        padding: 0;
+    }
 
-@media screen {
-    
+    .quiz {
+        width: 100%;
+    }
+    footer button {
+        font-size: 6.5vw;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    footer {
+        height: 40%;
+    }
+    .quiz-btns {
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(4, 1fr);
+    }
+    footer button {
+        font-size: 1rem;
+        font-size: calc(0.5rem + 6vw);
+    }
 }
