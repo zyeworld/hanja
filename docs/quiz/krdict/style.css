@@ -18,6 +18,7 @@ main {
     background-color: #ddd;
 }
 
+/* Menu */
 /* Combo text */
 .combo-container {
     position: absolute;
@@ -27,27 +28,88 @@ main {
     font-size: 1.25rem;
     text-align: right;
 }
-.combo, .max-combo {
+.combo, .max-combo { font-weight: bold; }
+.max-combo-container { color: #666; }
+
+/* Config */
+.config-open {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0.5rem;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 0.25rem 0.5rem;
+
+    font-size: 1.25rem;
     font-weight: bold;
+    background-color: white;
+    cursor: pointer;
 }
-.max-combo-container {
-    color: #666;
+.config {
+    padding: 0;
+    border: none;
+    border-radius: 1rem;
+}
+.config > form {
+    position: relative;
+    padding: 1rem;
+}
+.config h3 { text-align: center; }
+.config button {
+    border: none;
+    border-radius: 0.5rem;
+    padding: 0.25rem 0.5rem;
+    font-size: 1rem;
+    color: black;
+    background-color: #ccc;
+}
+.config-close {
+    position: absolute;
+    right: 0.5rem;
+    top: 0.5rem;
+}
+/* Fieldset */
+.config fieldset { margin-bottom: 1rem; }
+.config legend { font-weight: bold; }
+.config-level-output {
+    display: block;
+    text-align: center;
+}
+.config input[type=range] {
+    width: 100%;
+}
+.display-btn {
+    border: 2px solid #ddd;
+    border-radius: 0.5rem;
+    padding: 0 0.25rem;
+}
+.config-submit-container {
+    display: flex;
+    justify-content: center;
+}
+.config-submit-container button {
+    border: none;
+    border-radius: 0.5rem;
+    padding: 0.25rem 0.5rem;
+    font-size: 1rem;
+    color: black;
+    background-color: #ccc;
 }
 
-/* Removing margin */
+/* Text */
 h1, h2, h3 {
     margin-block-start: 0;
     margin-block-end: 0;
 }
-
 /* Word */
-h1 {
+.quiz-word {
     margin-top: 2rem;
     height: 5.5rem;
     text-align: center;
     font-size: 3rem;
 }
-h1 b {
+.quiz-word mark {
     font-weight: bold;
     border: none;
     border-radius: 0.5rem;
@@ -55,28 +117,26 @@ h1 b {
     margin: 0 0.125rem;
     background-color: white;
 }
-/* Text */
-ruby {
-    cursor: pointer;
-}
+/* Ruby */
+ruby { cursor: pointer; }
 ruby:hover {
     color: blue;
     text-shadow: 1px 1px 1px #0005;
 }
-
 /* Sentence */
-h2 {
+.quiz-sentence, .quiz-meaning {
     margin: 0 1rem;
     font-weight: normal;
     font-size: 2rem;
 }
 /* Flavor */
-h3 {
+.quiz-flavor {
     margin: 0 1rem;
     text-align: right;
     font-style: italic;
     font-size: 1.75rem;
 }
+
 
 /* Buttons */
 footer {
@@ -113,6 +173,7 @@ footer button {
     grid-template-rows: repeat(2, 1fr);
 }
 .quiz-btns button {
+    color: black;
     margin: 0.25rem;
 }
 .quiz-btns button:disabled {
@@ -120,29 +181,22 @@ footer button {
     color: black;
     cursor: default;
 }
-.quiz-btns button.selected:disabled {
-    background-color: #faafaf;
-}
-.quiz-btns button.correct:disabled {
-    background-color: #a1ebba;
-}
+.quiz-btns button.selected:disabled { background-color: #faafaf; }
+.quiz-btns button.correct:disabled { background-color: #a1ebba; }
+.quiz-btns .big { font-size: 3rem; }
 
+
+/* Responsive */
 @media screen and (max-width: 640px) {
-    main {
-        padding: 0;
-    }
-    .quiz {
-        width: 100%;
-    }
-    h1 {
+    main { padding: 0; }
+    .quiz { width: 100%; }
+    .quiz-word {
         font-size: 2.5rem;
         height: 4.5rem;
     }
-    h2 { font-size: 1.5rem; }
-    h3 { font-size: 1.25rem; }
-    footer button {
-        font-size: 6.5vw;
-    }
+    .quiz-meaning, .quiz-sentence { font-size: 1.5rem; }
+    .quiz-flavor { font-size: 1.25rem; }
+    footer button { font-size: 6.5vw; }
     .combo-container {
         margin: 0.5rem;
         font-size: 1rem;
@@ -150,25 +204,23 @@ footer button {
 }
 
 @media screen and (max-width: 360px) {
-    h1 {
+    .quiz-word {
         font-size: 2rem;
         height: 3.5rem;
     }
-    h2 { font-size: 1.25rem; }
-    h3 { font-size: 1rem; }
-    .quiz-btn-next {
-        height: 20%;
-    }
+    .quiz-meaning, .quiz-sentence { font-size: 1.25rem; }
+    .quiz-flavor { font-size: 1rem; }
+    .config label { display: block; margin-bottom: 0.5rem; }
+    .quiz-btn-next { height: 20%; }
     .quiz-btns {
         height: 80%;
         grid-template-columns: 1fr;
         grid-template-rows: repeat(4, 1fr);
     }
+    .quiz-btns .big { font-size: 2rem; }
     footer button {
         font-size: 1rem;
         font-size: calc(0.5rem + 6vw);
     }
-    .max-combo-container {
-        display: none;
-    }
+    .max-combo-container { display: none; }
 }

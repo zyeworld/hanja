@@ -1,4 +1,4 @@
-const HUNEUM = {
+window.HUNEUM = {
 "가":[
 {
 c:"家",

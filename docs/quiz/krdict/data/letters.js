@@ -1,5 +1,4 @@
-const { LEVEL_LIST, HANJA_LIST } = {
-"LEVEL_LIST":{
+window.LEVEL_LIST = {
 "8":49,
 "7p":99,
 "7":149,
@@ -15,8 +14,8 @@ const { LEVEL_LIST, HANJA_LIST } = {
 "1":2730,
 "0p":2822,
 "0":2831
-},
-"HANJA_LIST":[
+};
+window.HANJA_LIST = [
 {
 "c":"校",
 "l":"8",
@@ -108594,5 +108593,4 @@ const { LEVEL_LIST, HANJA_LIST } = {
 36248
 ]
 }
-]
-};
+];
