@@ -1,17 +1,44 @@
 // @ts-check
 
+// *****************
 // ./data/letters.js
+// *****************
 /** @type {Object.<string, number>} */ // @ts-ignore
 const LEVEL_LIST = window.LEVEL_LIST;
-/** @type {Array<{ c: string, l: string, h: string[], d: number[] }>} */ // @ts-ignore
+
+/**
+ * @typedef {Object} Hanja
+ * @property {string} c chinese character
+ * @property {string} l level
+ * @property {string[]} h list of huneum
+ * @property {number[]} d list of appearances in the dictionary (index in WORDS - see below)
+ */
+/** @type {Hanja[]} */ // @ts-ignore
 const HANJA_LIST = window.HANJA_LIST;
 
+// ***************
 // ./data/words.js
-/** @type {Array<{ w: string, o: string, c: string, m: string, e: string }>} */ // @ts-ignore
+// ***************
+/**
+ * @typedef {Object} Word
+ * @property {string} w word
+ * @property {string} o original script
+ * @property {string} c word class (noun/verb/..)
+ * @property {string} m meaning
+ * @property {string} e example sentences (separated with \n)
+ */
+/** @type {Word[]} */ // @ts-ignore
 const WORDS = window.WORDS;
 
+// ****************
 // ./data/huneum.js
-/** @type {Object.<string, Array<{ c: string, h: string }>>} */ // @ts-ignore
+// ****************
+/**
+ * @typedef {Object} Char_hun_pair
+ * @property {string} c character
+ * @property {string} h hun (meaning)
+ */
+/** @type {Object.<string, Char_hun_pair[]>} */ // @ts-ignore
 const HUNEUM = window.HUNEUM;
 
 // ********************
@@ -92,7 +119,7 @@ const OPTION_DISPLAY = { 'huneum': 0, 'hanja': 1, 'both': 2 }
 /** @type {Config} */
 const game_config = {
     level: '0',
-    option_display: OPTION_DISPLAY.huneum,
+    option_display: OPTION_DISPLAY.both,
     option_count: 4,
     quiz_count: 30
 };
@@ -118,13 +145,13 @@ function initialize_quizzes({ level, option_display, option_count, quiz_count } 
 
         // 2. pick word
         if (hanja_i >= HANJA_LIST.length) {
-            console.log('Error - unexpected hanja index: ', hanja, hanja_i);
+            console.warn('Error - unexpected hanja index: ', hanja, hanja_i);
             continue;
         }
         const dict_appearances = HANJA_LIST[hanja_i]['d'];
         const word_i = dict_appearances[pick_int(0, dict_appearances.length)];
         if (word_i >= WORDS.length) {
-            console.log('Error - unexpected word index: ', hanja, word_i);
+            console.warn('Error - unexpected word index: ', hanja, word_i);
             continue;
         }
         const word = WORDS[word_i]['w'];
@@ -140,11 +167,11 @@ function initialize_quizzes({ level, option_display, option_count, quiz_count } 
         const original = WORDS[word_i]['o'];
         const hanja_i_in_word = original.indexOf(hanja);
         if (hanja_i_in_word < 0) {
-            console.log('Error - hanja not in word: ', hanja, word, original);
+            console.warn('Error - hanja not in word: ', hanja, word, original);
             continue;
         }
         if (hanja_i_in_word >= word.length) {
-            console.log('Error - word and original word in dictionary do not match: ', word, original);
+            console.warn('Error - word and original word in dictionary do not match: ', word, original);
             continue;
         }
         let eum = word[hanja_i_in_word];
@@ -171,7 +198,7 @@ function initialize_quizzes({ level, option_display, option_count, quiz_count } 
             if (HUNEUM[eum][hun_index]['h'] === hun) break;
         }
         if (hun_index >= hun_count) {
-            console.log('Error - could not find hun: ', hanja, hun);
+            console.warn('Error - could not find hun: ', hanja, hun);
             continue;
         }
 
@@ -192,7 +219,7 @@ function initialize_quizzes({ level, option_display, option_count, quiz_count } 
             // create {hanja: '', huneum: ''} pairs
             options = option_indexes.map((index) => {
                 if (index >= HUNEUM[eum].length) {
-                    console.log('Error', HUNEUM[eum], index, hun_index, option_indexes);
+                    console.warn('Error', HUNEUM[eum], index, hun_index, option_indexes);
                 }
                 let option_hanjas = HUNEUM[eum][index]['c'];
                 let option_hanja = option_hanjas[pick_int(0, option_hanjas.length)];
@@ -244,7 +271,7 @@ function initialize_quizzes({ level, option_display, option_count, quiz_count } 
             }
         }
         if (correct_option >= options.length) {
-            console.log('Error - hanja went missing while creating options');
+            console.warn('Error - hanja went missing while creating options');
             console.log(options);
             continue;
         }
@@ -346,6 +373,7 @@ function add_onclick() {
     const EL_ruby = document.getElementsByTagName('ruby');
     for (const E_ruby of EL_ruby) {
         E_ruby.onclick = ((e) => {
+            // TODO
             console.log(E_ruby.innerText[0]);
         });
     }
@@ -412,8 +440,6 @@ const E_config = document.querySelector('.config') ?? new HTMLDialogElement();
 const E_config_form = document.querySelector('.config > form') ?? new HTMLFormElement();
 /** @type {HTMLButtonElement} */
 const E_config_open = document.querySelector('.config-open') ?? new HTMLButtonElement();
-/** @type {HTMLButtonElement} */
-const E_config_close = document.querySelector('.config-close') ?? new HTMLButtonElement();
 
 /** @type {HTMLInputElement} */
 const E_config_level = document.querySelector('.config input[name=level]') ?? new HTMLInputElement();
@@ -423,11 +449,6 @@ const E_config_level_output = document.querySelector('.config-level-output') ?? 
 E_config_open.addEventListener('click', (e) => {
     // TODO: set inputs according to game_config when opening
     E_config.showModal();
-});
-E_config_close.addEventListener('click', (e) => { E_config.close(); });
-// closing dialog when clicking outside it
-E_config.addEventListener('click', (e) => {
-    if (e.target instanceof HTMLDialogElement) { E_config.close(); }
 });
 
 // changing 'level' input
@@ -441,15 +462,33 @@ E_config_level.addEventListener('input', (e) => {
 });
 // submit
 const int_to_level = ['8', '7p', '7', '6p', '6', '5p', '5', '4p', '4', '3p', '3', '2', '1', '0p', '0'];
-E_config_form.addEventListener('submit', (e) => {
+
+/**
+ * Apply new config
+ */
+function apply_config() {
+    let new_level = E_config_form.level ? int_to_level[E_config_form.level.value] : '0';
+    let new_option_display = E_config_form.display ? OPTION_DISPLAY[E_config_form.display.value] : 0;
+    // check if nothing has changed
+    if (game_config.level === new_level && game_config.option_display === new_option_display) {
+        E_config.close();
+        return;
+    }
+
     // restart game
-    game_config.level = E_config_form.level ? int_to_level[E_config_form.level.value] : '0';
-    game_config.option_display = E_config_form.display ? OPTION_DISPLAY[E_config_form.display.value] : 0;
+    game_config.level = new_level;
+    game_config.option_display = new_option_display;
     initialize_quizzes();
     game_state.quiz_index = 0;
     display_quiz();
-});
+    E_config.close();
+}
 
+E_config_form.addEventListener('submit', apply_config);
+// closing dialog when clicking outside it
+E_config.addEventListener('click', (e) => {
+    if (e.target instanceof HTMLDialogElement) { apply_config(); }
+});
 
 // ************
 // Initializing

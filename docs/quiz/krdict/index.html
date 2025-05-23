@@ -12,20 +12,20 @@
 </head>
 <body>
     <main>
-        <section class="quiz">
+        <section class="game">
             <button class="config-open">설정</button>
             <pre class="combo-container" hidden><span class="combo">0</span> 콤보<br><span class="max-combo-container"><small>최대 </small><span class="max-combo">0</span> 콤보</span></pre>
-            <h1 class="quiz-word">로딩 중...</h1>
-            <h2 class="quiz-meaning"></h2>
+            <h1 class="game-word">로딩 중...</h1>
+            <h2 class="game-meaning"></h2>
             <hr>
-            <h2 class="quiz-sentence"></h2>
-            <h3 class="quiz-flavor"></h3>
+            <h2 class="game-sentence"></h2>
+            <h3 class="game-flavor"></h3>
             
             <footer>
-                <div class="quiz-btn-next">
+                <div class="game-btn-next">
                     <button hidden>다음</button>
                 </div>
-                <div class="quiz-btns">
+                <div class="game-btns">
                     <button></button>
                     <button></button>
                     <button></button>
@@ -37,7 +37,6 @@
     <dialog class="config">
         <form method="dialog">
             <h3>설정</h3>
-            <button type="button" class="config-close">닫기</button>
             <fieldset>
                 <legend>급수</legend>
                 <output class="config-level-output">모든 급수</output>
@@ -45,9 +44,9 @@
             </fieldset>
             <fieldset>
                 <legend>선택지</legend>
-                <label><input type="radio" name="display" value="huneum" checked /> <span class="display-btn">다섯 오</span></label>
+                <label><input type="radio" name="display" value="huneum" /> <span class="display-btn">다섯 오</span></label>
                 <label><input type="radio" name="display" value="hanja" /> <span class="display-btn">五</span></label>
-                <label><input type="radio" name="display" value="both" /> <span class="display-btn">다섯 오 (五)</span></label>
+                <label><input type="radio" name="display" value="both" checked /> <span class="display-btn">다섯 오 (五)</span></label>
             </fieldset>
             <div class="config-submit-container"><button type="submit">적용</button></div>
         </form>

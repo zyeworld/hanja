@@ -9,7 +9,7 @@ main {
     padding: 3rem 0;
 }
 
-.quiz {
+.game {
     position: relative;
     width: 80%;
     max-width: 60rem;
@@ -56,19 +56,7 @@ main {
     padding: 1rem;
 }
 .config h3 { text-align: center; }
-.config button {
-    border: none;
-    border-radius: 0.5rem;
-    padding: 0.25rem 0.5rem;
-    font-size: 1rem;
-    color: black;
-    background-color: #ccc;
-}
-.config-close {
-    position: absolute;
-    right: 0.5rem;
-    top: 0.5rem;
-}
+
 /* Fieldset */
 .config fieldset { margin-bottom: 1rem; }
 .config legend { font-weight: bold; }
@@ -95,6 +83,7 @@ main {
     font-size: 1rem;
     color: black;
     background-color: #ccc;
+    cursor: pointer;
 }
 
 /* Text */
@@ -103,13 +92,13 @@ h1, h2, h3 {
     margin-block-end: 0;
 }
 /* Word */
-.quiz-word {
+.game-word {
     margin-top: 2rem;
     height: 5.5rem;
     text-align: center;
     font-size: 3rem;
 }
-.quiz-word mark {
+.game-word mark {
     font-weight: bold;
     border: none;
     border-radius: 0.5rem;
@@ -124,13 +113,13 @@ ruby:hover {
     text-shadow: 1px 1px 1px #0005;
 }
 /* Sentence */
-.quiz-sentence, .quiz-meaning {
+.game-sentence, .game-meaning {
     margin: 0 1rem;
     font-weight: normal;
     font-size: 2rem;
 }
 /* Flavor */
-.quiz-flavor {
+.game-flavor {
     margin: 0 1rem;
     text-align: right;
     font-style: italic;
@@ -153,18 +142,18 @@ footer button {
     cursor: pointer;
 }
 
-.quiz-btn-next {
+.game-btn-next {
     width: 100%;
     height: 30%;
     display: flex;
     justify-content: center;
 }
-.quiz-btn-next button {
+.game-btn-next button {
     width: 40%;
     margin: 0.25rem;
 }
 
-.quiz-btns {
+.game-btns {
     width: 100%;
     height: 70%;
 
@@ -172,30 +161,30 @@ footer button {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
 }
-.quiz-btns button {
+.game-btns button {
     color: black;
     margin: 0.25rem;
 }
-.quiz-btns button:disabled {
+.game-btns button:disabled {
     background-color: #eee;
     color: black;
     cursor: default;
 }
-.quiz-btns button.selected:disabled { background-color: #faafaf; }
-.quiz-btns button.correct:disabled { background-color: #a1ebba; }
-.quiz-btns .big { font-size: 3rem; }
+.game-btns button.selected:disabled { background-color: #faafaf; }
+.game-btns button.correct:disabled { background-color: #a1ebba; }
+.game-btns .big { font-size: 3rem; }
 
 
 /* Responsive */
 @media screen and (max-width: 640px) {
     main { padding: 0; }
-    .quiz { width: 100%; }
-    .quiz-word {
+    .game { width: 100%; }
+    .game-word {
         font-size: 2.5rem;
         height: 4.5rem;
     }
-    .quiz-meaning, .quiz-sentence { font-size: 1.5rem; }
-    .quiz-flavor { font-size: 1.25rem; }
+    .game-meaning, .game-sentence { font-size: 1.5rem; }
+    .game-flavor { font-size: 1.25rem; }
     footer button { font-size: 6.5vw; }
     .combo-container {
         margin: 0.5rem;
@@ -204,20 +193,20 @@ footer button {
 }
 
 @media screen and (max-width: 360px) {
-    .quiz-word {
+    .game-word {
         font-size: 2rem;
         height: 3.5rem;
     }
-    .quiz-meaning, .quiz-sentence { font-size: 1.25rem; }
-    .quiz-flavor { font-size: 1rem; }
+    .game-meaning, .game-sentence { font-size: 1.25rem; }
+    .game-flavor { font-size: 1rem; }
     .config label { display: block; margin-bottom: 0.5rem; }
-    .quiz-btn-next { height: 20%; }
-    .quiz-btns {
+    .game-btn-next { height: 20%; }
+    .game-btns {
         height: 80%;
         grid-template-columns: 1fr;
         grid-template-rows: repeat(4, 1fr);
     }
-    .quiz-btns .big { font-size: 2rem; }
+    .game-btns .big { font-size: 2rem; }
     footer button {
         font-size: 1rem;
         font-size: calc(0.5rem + 6vw);
