@@ -287,17 +287,17 @@ function initialize_quizzes({ level, option_display, option_count, quiz_count } 
 // ************
 
 /** @type {HTMLElement} */
-const E_quiz_word = document.querySelector('.quiz-word') ?? new HTMLElement();
+const E_quiz_word = document.querySelector('.game-word') ?? new HTMLElement();
 /** @type {HTMLElement} */
-const E_quiz_sentence = document.querySelector('.quiz-sentence') ?? new HTMLElement();
+const E_quiz_sentence = document.querySelector('.game-sentence') ?? new HTMLElement();
 /** @type {HTMLElement} */
-const E_quiz_meaning = document.querySelector('.quiz-meaning') ?? new HTMLElement();
+const E_quiz_meaning = document.querySelector('.game-meaning') ?? new HTMLElement();
 /** @type {HTMLElement} */
-const E_quiz_flavor = document.querySelector('.quiz-flavor') ?? new HTMLElement();
+const E_quiz_flavor = document.querySelector('.game-flavor') ?? new HTMLElement();
 /** @type {NodeListOf<HTMLButtonElement>} */
-const EL_quiz_btns = document.querySelectorAll('.quiz-btns button');
+const EL_quiz_btns = document.querySelectorAll('.game-btns button');
 /** @type {HTMLButtonElement} */
-const E_quiz_btn_next = document.querySelector('.quiz-btn-next button') ?? new HTMLButtonElement();
+const E_quiz_btn_next = document.querySelector('.game-btn-next button') ?? new HTMLButtonElement();
 
 
 const game_state = {
